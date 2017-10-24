@@ -115,7 +115,7 @@
 					});
 
 			// Initialize scrollzer.
-				$.scrollzer(ids, { pad: 300, lastHack: true });
+				// $.scrollzer(ids, { pad: 300, lastHack: true });
 
 	});
 
